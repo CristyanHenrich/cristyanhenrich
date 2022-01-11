@@ -28,19 +28,15 @@
 <hr>
  
 ### 🕹 Sistemas Operacionais Utilizados
-
-<div align="center" style="display: inline_block"><br>
+  
+<div class="SO" align="center" style="display: flex"><br>
  <img align="center" alt="Henrich-MySql" height="60" width="60" src="https://logospng.org/download/windows-11/logo-windows-11-icon-256.png">
  <img align="center" alt="Henrich-MySql" height="70" width="70" src="https://static.wikia.nocookie.net/logopedia/images/a/a0/DarkProductPageIcon_m%C3%A1solat_1024x1024x32.png/revision/latest/scale-to-width-down/150?cb=20190921143615">
  <img align="center" alt="Henrich-MySql" height="100" width="100" src="https://www.kali.org/images/kali-logo.svg">
-</div>
   
-<hr>
   
-### 🕹 Redes Sociais e Contato
+  ### 🕹 Redes Sociais e Contato
 
-<div align="center" style="display: inline_block"><br>
-  
  <img align="center" alt="Henrich-MySql" height="30" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  <img align="center" alt="Henrich-MySql" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  <img align="center" alt="Henrich-MySql" height="30" width="110" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -51,3 +47,13 @@
 <br>
   
 <hr>
+  
+### 🕹 Badges
+
+<div align="center" style="display: inline_block"><br>
+  
+ <img align="center" alt="Henrich-Cisco" height="100" width="100" src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png">
+ <img align="center" alt="Henrich-Cisco" height="100" width="100" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
+ <img align="center" alt="Henrich-Cisco" height="100" width="100" src="https://images.credly.com/size/340x340/images/6f20f78c-c26c-4536-9d4c-4fb60cbe4044/learnathon.png">
+  
+</div>
