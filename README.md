@@ -1,4 +1,4 @@
-# 🧑‍💻 Hello Word!
+# 🧑‍💻 Hello World!
 
 <div align="center">
 <p>Sou Cristyan Henrich, previamente, apaixonado pela tecnologia!</p>
