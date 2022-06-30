@@ -48,10 +48,12 @@
 ### 🕹 Redes Sociais e Contato
   
 <div class="SO" align="center" style="display: flex">
- <a href="https://www.instagram.com/cristyan_henrich_dev/"><img align="center" alt="Henrich-MySql" height="50" width="170" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/cristyan-henrich/"><img align="center" alt="Henrich-MySql" height="50" width="170" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://github.com/CristyanHenrich"><img align="center" alt="Henrich-MySql" height="50" width="170" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://pt.stackoverflow.com/users/227628/cristyan-henrich"><img align="center" alt="Henrich-MySql" height="50" width="170" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+   <a href="https://www.instagram.com/cristyan_henrich_dev/"><img align="center" alt="Henrich-Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/cristyan-henrich/"><img align="center" alt="Henrich-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://github.com/CristyanHenrich"><img align="center" alt="Henrich-github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://bitbucket.org/cristyanhenrich/"><img align="center" alt="Henrich-Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
+   <a href="https://gitlab.com/CristyanHenrich"><img align="center" alt="Henrich-Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+   <a href="https://pt.stackoverflow.com/users/227628/cristyan-henrich"><img align="center" alt="Henrich-stack" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </div>
   
 <hr>
