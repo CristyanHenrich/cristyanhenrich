@@ -3,7 +3,7 @@
 </div>
 <br />
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![Status](https://github.com/CristyanHenrich/cristyanhenrichn/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
