@@ -9,7 +9,7 @@
  <div align="center" style="display: inline_block"><br>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,html,css,javascript,typescript,angular,nodejs,jquery,php,laravel,vue,bootstrap,tailwind,firebase,mysql,jenkins,mongodb,docker,grafana,nginx,prometheus" />
+        <img align="center" src="https://skillicons.dev/icons?i=python,html,css,javascript,typescript,angular,nodejs,jquery,php,laravel,vue,bootstrap,tailwind,firebase,mysql,jenkins,mongodb,docker,grafana,nginx,prometheus" />
       </a>
     </p>
 </div>
