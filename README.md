@@ -9,7 +9,7 @@
  <div align="center" style="display: inline_block"><br>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,html,css,javascript,typescript,angular,nodejs,jquery,php,laravel,vue,bootstrap,tailwind,firebase,mysql" />
+        <img src="https://skillicons.dev/icons?i=python,html,css,javascript,typescript,angular,nodejs,jquery,php,laravel,vue,bootstrap,tailwind,firebase,mysql,jenkins,mongodb,docker,grafana,nginx,prometheus" />
       </a>
     </p>
 </div>
@@ -21,7 +21,7 @@
  <div align="start" style="display: inline_block"><br>
     <p align="start">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=swift,react,cs,aws" />
+        <img src="https://skillicons.dev/icons?i=swift,react,cs" />
       </a>
     </p>
 </div>
